@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Front-End Development.
 - 🌱 I’m currently learning on FreeCodeCamp.
 - 💞️ I’m looking to collaborate in futere.
-- 📫 How to reach me : madalina.apostol@hotmail.com.
+- 📫 How to reach me : madalina.apostol@hotmail.com and diavaldiasoft@gmail.com 
 
 <!---
 Maduuu97/Maduuu97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
